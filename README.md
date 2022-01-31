@@ -1,10 +1,14 @@
 ## **About**
 This is make project authentication with Laravel 8 mixing LDAP (LDAPRecord)
 
+##
+##
 
 ## **Requirements**
 > _PHP >= 7.2_ and _Laravel >= 5.6_
 
+##
+##
 
 ## **Steps**
 1. Run `composer require directorytree/ldaprecord-laravel`
