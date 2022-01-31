@@ -27,7 +27,8 @@ LDAP_TLS=false
 6. Open your browser and access your URL project (*default URL: `localhost:8000`*) 
 7. login with account from [Online LDAP Test Server](https://www.forumsys.com/2014/02/22/online-ldap-test-server/) (*username:`tesla` password:`tesla`*)
 
-
+##
+##
 
 # Thanks You For Your Visited
-<p align="center"> ![x-removebg-preview](https://user-images.githubusercontent.com/48183946/151840611-ac4fb7a4-d2c1-4ba3-9893-17dc28fa9d6a.png) </p>
+![x-removebg-preview](https://user-images.githubusercontent.com/48183946/151840611-ac4fb7a4-d2c1-4ba3-9893-17dc28fa9d6a.png)
