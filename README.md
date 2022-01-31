@@ -1,5 +1,5 @@
 ## **About**
-## This is make project authentication with Laravel 8 mixing LDAP (LDAPRecord)
+This is make project authentication with Laravel 8 mixing LDAP (LDAPRecord)
 
 
 ## **Requirements**
@@ -30,4 +30,4 @@ LDAP_TLS=false
 
 
 # Thanks You For Your Visited
-![x-removebg-preview](https://user-images.githubusercontent.com/48183946/151840611-ac4fb7a4-d2c1-4ba3-9893-17dc28fa9d6a.png)
+<p align="center"> ![x-removebg-preview](https://user-images.githubusercontent.com/48183946/151840611-ac4fb7a4-d2c1-4ba3-9893-17dc28fa9d6a.png) </p>
