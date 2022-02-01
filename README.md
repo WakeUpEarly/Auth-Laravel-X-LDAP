@@ -11,7 +11,7 @@ This is make project authentication with Laravel 8 mixing LDAP (LDAPRecord)
 ##
 
 ## **Steps**
-1. Clone this repository to your dicrectory project (`git clone https://github.com/WakeUpEarly/Auth-Laravel-X-LDAP.git`)
+1. Clone this repository to your directory project (`git clone https://github.com/WakeUpEarly/Auth-Laravel-X-LDAP.git`)
 2. Setting `php.ini` file:
 ```
 .......
