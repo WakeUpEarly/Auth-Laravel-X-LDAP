@@ -29,7 +29,7 @@ extension=mysqli
 4. Run `composer install`
 5. Create `.env` file, copy from `.env.example`
 6. Run `php artisan key:generate` 
-7. Create table `testLDAP`   
+7. Create table `testldap`   
 8. Run `composer require directorytree/ldaprecord-laravel`
 9. Run `php artisan vendor:publish --provider="LdapRecord\Laravel\LdapServiceProvider"`
 10. Setup LDAP connections, paste the following in your `.env` file:
