@@ -47,7 +47,7 @@ LDAP_TLS=false
 10. Run `php artisan serve`
 11. Open your browser and access your URL project (*default URL: `localhost:8000`*) 
 12. login with account from [Online LDAP Test Server](https://www.forumsys.com/2014/02/22/online-ldap-test-server/) (*username:`tesla` password:`password`*)
-13. Congreatulation.
+13. Congratulation.
 
 ##
 ##
